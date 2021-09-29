@@ -1,4 +1,4 @@
-# Chapter 5 : Digital_Electronic Bibliography
+# Chapter 5 : PCB routing and manufacturing
 
 ## Resources
 
