@@ -62,4 +62,4 @@ You have to provide a report (between 5 and 10 pages, please no more) which summ
 
 Don't forget to clean your place after work and put away all tools and materials used.
 
-Course leader e-mail: brice.parilusyan@gmail.com
+Course leader e-mail: marc.teyssier@devinci.fr & vivien@thr34d5.org
