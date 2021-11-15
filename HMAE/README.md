@@ -21,7 +21,9 @@ Instructions :
 
 ## Notation sheet
 
-Section in construction
+### Product Specific Success Criteria (PSSC)
+
+During the second step of notation (see section "deadlines"), you will have to write a PSSC. Commonly say, a PSSC is a goal you want to achieve and the reward you estimate for it. The notation of your project is depend of the notation sheet in the survival guide and your PSSC. To write the PSSC, you must define a precise goal to your project (ex: Make a humanoide robot which can walk in straight line alone) And different sub-goals (ex: It must stand on his 2 foot, each foot can move, it can stand on 1 foot). The main goal is the maximum note (20/20), the sub-goals are parts of this note, each one give an amount of point decided by you, the sum is equal to the maximum note. If your main goal and sub-goals are not ambitious enough or too much ambitious, you will have a reduction of the maximum note (20 -> 16 -> 12). 
 
 
 ## Deadlines
@@ -43,7 +45,7 @@ The quality of the report is a part of the evaluation. Make it readable with rel
 
 > 16/11/2021 - 19/11/2021
 
-You have to provide a report (between 2 and 5 pages) which summarises your advancement. The report is an extension of the first one. You will present your progress and prototype(s) to the course leader during a 10-minute meeting. The meeting has to take place in the deadline interval. 
+You have to provide a report (between 2 and 5 pages) which summarises your advancement. The report is an extension of the first one. You will have to add your PSSC inside (See section "Notation Sheet"). You will present your progress, PSSC and prototype(s) to the course leader during a 10-minute meeting. The meeting has to take place in the deadline interval. 
 **Please take the meeting in advance (1 week in advance, not 1 hour)**
 
 ### Step 3 - Final result
