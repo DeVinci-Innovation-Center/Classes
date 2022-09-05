@@ -25,3 +25,6 @@ The course is structured like a zoom out over several weeks. Students will start
 - Databases - SQL / MongoDB
 - BigData - SaaS
 - Cloud - PaaS & IaaS
+
+
+Course leader e-mail: gregor.jouet@devinci.fr
