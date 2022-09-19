@@ -25,7 +25,7 @@ For the firt step of notation (see section "deadlines"), you will have to write 
 ## Deadlines
 
 The evaluation process has two steps (detailed in your survival guide).
-**the documents have to be written in English.**
+**The document have to be written in English.**
 
 ### Step 1 - Subject validation
 
