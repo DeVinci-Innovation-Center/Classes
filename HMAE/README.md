@@ -31,7 +31,7 @@ The evaluation process has two steps (detailed in your survival guide).
 
 > 09/11/2022
 
-ou have to provide a 1-page report which summarises your project and the process to make it. It must contain an introduction of your project, a diagram showing the different stages leading to the completion of your project and an identification of the difficulties.
+You have to provide a 1-page report which summarises your project and the process to make it. It must contain an introduction of your project, a diagram showing the different stages leading to the completion of your project and an identification of the difficulties.
 Your project **must be decided with your PI** and the course leader. Otherwise, your report could be rejected, ending with a note of 0.
 The deadline is for the report deposit. You have to check with your PI and the course leader before. 
 
