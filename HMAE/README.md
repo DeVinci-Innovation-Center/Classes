@@ -29,7 +29,7 @@ The evaluation process has two steps (detailed in your survival guide).
 
 ### Step 1 - Subject validation
 
-> 12/11/2021
+> 09/11/2022
 
 ou have to provide a 1-page report which summarises your project and the process to make it. It must contain an introduction of your project, a diagram showing the different stages leading to the completion of your project and an identification of the difficulties.
 Your project **must be decided with your PI** and the course leader. Otherwise, your report could be rejected, ending with a note of 0.
@@ -39,7 +39,7 @@ The quality of the report is a major part of the evaluation. Make it readable wi
 
 ### Step 2 - PSSC & advancement
 
-> December
+> 28/11/2022 - 2/12/2022
 
 You have to provide a report (between 2 and 5 pages) which summarises your advancement. The report is an extension of the first one. You will have to add your PSSC inside (See section "Notation Sheet"). You will present your progress, PSSC and prototype(s) to the course leader during a 10-minute meeting. The meeting has to take place in the deadline interval. 
 **Please take the meeting in advance (1 week in advance, not 1 hour)**
@@ -47,7 +47,7 @@ You have to provide a report (between 2 and 5 pages) which summarises your advan
 
 ### Step 3 - Final result
 
-> Somewhere - Sometime
+> 13/03/2023 - 17/03/2023
 
 You have to provide a report (between 5 and 10 pages, please no more) which summarises all the projects. You have to add figures, schematics, and all resources mandatory to understand the project.
 You will present your final result with a demonstration to the course leader during a 10-minute meeting. The meeting has to take place in the deadline interval.
