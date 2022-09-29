@@ -80,7 +80,7 @@ The Computer Graphics (CG) track provides advanced development methods for 3D Gr
 
 ## 💯 Phase I
 
-The Pahse I evaluates the following aspects of your project and must be provided as a ~1 page report written in LaTeX using the official template. It must be return as a PDF file of course.
+The Phase I evaluates the following aspects of your project and must be provided as a ~1 page report written in LaTeX using the official template. It must be return as a PDF file of course.
 
 - Abstract
 - Motivation
