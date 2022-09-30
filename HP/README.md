@@ -31,6 +31,8 @@ The submission deadline for phase 1 is set to the 23rd November 11:59:59PM (23 N
 - In **Phase 3** you will complete the template with the evaluation of your prototype according to what you submitted in phase 2. Phase 3 must have an evaluation of the technical characteristics of your prototype or a user study. The deadline for phase 3 is set to the 17th March 2023 23:59:59PM (17th March 2023 23h59min59sec)
 
 
+📚 Don't forget you can find all the information about the different phases in your survival guide.
+
 ## Content
 
 - Operating System & System Administration
