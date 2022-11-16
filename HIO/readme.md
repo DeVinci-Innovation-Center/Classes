@@ -55,3 +55,25 @@ A paragraph about your own learning:
 - What is your plan for developing those skills? (tutorials, people you will talk to)
 - What other projects could you do with the skills you develop through your project?
 - Who can you collaborate with? (optional but encouraged)
+
+## ✅ Checkpoint 2: November 20th, 2022, end of day
+
+Please provide a report (between 2 and 5 pages) that summarize the progress on your HIO project. The report can include materials from your previous report and should include the following sections:
+- Abstract: summary of context/motivation, problem statement, solution, methods, proposed evaluation (200 words max) 
+- Introduction: a more elaborate description of the context/motivation, problem statement, and what you are planning to do 
+- Related work (SOTA): several paragraphs summarizing areas of prior work relevant to your current project. 
+- Detailed architecture of your project:
+   - Include a diagram of the parts of your project, the tools entailed to implement each part, and how they connect
+   - If your HIO project is only a part of your innovation project (this is the case for a lot of A5s), you should still show the diagram of your IP and derscribe how your HIO project relates to it.
+   - Describe and justify any design and technical choices that you had to make
+   - Criteria for success
+- Preliminary evaluation plan:
+   - Provide initial research questions that you would like to investigate through your project
+   - Present some ideas for what kind of evaluation your will conduct (quantitative or qualitative?)
+   - If quantitative, what will you measure and analyze?
+   - If qualitative, what kind of questioinnaires and interviews will you conduct?     
+
+If you are not in HLG, please make sure that your advisor validates your proposal over email. If you are in HLG, and haven't updated me since the week of Nov 7, please take a 10-15 min meeting with me over Outlook for validationn. I will accept advisor validations until Nov 25.
+
+For administrative reasons, your HIO reports must be different from your IP reports and must have a different focus. If your IP is about building a device, your HIO project can focus more on the evaluation. Feel free to discuss with me if you are unsure of how to divide your projects for different classes.
+
