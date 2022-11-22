@@ -41,7 +41,7 @@ The quality of the report is a major part of the evaluation. Make it readable wi
 
 > 28/11/2022 - 2/12/2022
 
-You have to provide a report (between 2 and 5 pages) which summarises your advancement. The report is an extension of the first one. You will have to add your PSSC inside (See section "Notation Sheet"). You will present your progress, PSSC and prototype(s) to the course leader during a 10-minute meeting. The meeting has to take place in the deadline interval. 
+You have to provide a report (between 2 and 5 pages) which summarises your advancement. The report is an extension of the first one. You will have to add your PSSC inside (See section "Notation Sheet"). You will present your progress with technical schematic, design choices explanations, user / system evaluation proposal, PSSC and prototype(s) to the course leader during a 10-minute meeting. The meeting has to take place in the deadline interval. 
 **Please take the meeting in advance (1 week in advance, not 1 hour)**
 
 
@@ -49,7 +49,7 @@ You have to provide a report (between 2 and 5 pages) which summarises your advan
 
 > 13/03/2023 - 17/03/2023
 
-You have to provide a report (between 5 and 10 pages, please no more) which summarises all the projects. You have to add figures, schematics, and all resources mandatory to understand the project.
+You have to provide a report (between 5 and 10 pages, please no more) which summarises all the projects. You have to add figures, schematics, and all resources mandatory to understand the project and a critic about it.
 You will present your final result with a demonstration to the course leader during a 10-minute meeting. The meeting has to take place in the deadline interval.
 **Please take the meeting in advance (1 week in advance, not 1 hour)**
 
